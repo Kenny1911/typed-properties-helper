@@ -29,5 +29,8 @@
     "psr-4": {
       "Kenny1911\\TypedProperties\\Tests\\": "./tests"
     }
+  },
+  "scripts": {
+    "phpunit": "phpunit"
   }
 }
